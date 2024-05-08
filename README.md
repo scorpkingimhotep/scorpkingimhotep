@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @scorpkingimhotep
+👋 Hi, I’m @scorpkingimhotep
 
 <!---
 scorpkingimhotep/scorpkingimhotep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
